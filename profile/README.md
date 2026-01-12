@@ -4,7 +4,7 @@ Welcome to **Clash Hub**, the ultimate companion platform for Clash of Clans pla
 
 [![Live App](https://img.shields.io/badge/App-Live-brightgreen?style=for-the-badge&logo=react)](https://app.clashhub.cc)
 [![API Status](https://img.shields.io/badge/API-Online-blue?style=for-the-badge&logo=nodedotjs)](https://api.clashhub.cc/health)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/clash-hub-org/.github/blob/main/LICENSE.md)
 
 Clash Hub is designed to bridge the gap between in-game statistics and community collaboration. It provides tools to manage village layouts, track clan performance, and optimize war strategies.
 
@@ -30,15 +30,15 @@ For developers interested in our API, we provide interactive documentation:
 ## ⚖️ Legal & Privacy
 
 We value your privacy and comply with Supercell's Fan Content Policy.
--   [Privacy Policy](PRIVACY.md)
--   [Terms of Use](TERMS.md)
--   [License](LICENSE.md)
+-   [Privacy Policy](https://github.com/clash-hub-org/.github/blob/main/PRIVACY.md)
+-   [Terms of Use](https://github.com/clash-hub-org/.github/blob/main/TERMS.md)
+-   [License](https://github.com/clash-hub-org/.github/blob/main/LICENSE.md)
 
 ## ❤️ Support the Project
 
 If Clash Hub helps you win wars or find the perfect layout, consider supporting the development! Every coffee helps keep the servers running.
 
-👉 **[Support Page](SUPPORT.md)**
+👉 **[Support Page](https://github.com/clash-hub-org/.github/blob/main/SUPPORT.md)**
 
 ---
 

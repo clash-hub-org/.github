@@ -1,17 +1,25 @@
-# Support Clash Hub 🏰
+# Support Clash Hub
 
-Hi! I'm the developer behind **Clash Hub**. 
+Thanks for using Clash Hub.
 
-I built this platform to help the Clash of Clans community manage their clans and villages in a more visual and efficient way. Maintaining servers, databases, and image services comes with a monthly cost.
+If the platform helps your clan, you can support the project to keep hosting, database, queue workers, and media processing online.
 
-If you like what I do and want to help me keep the project alive and ad-free, you can buy me a coffee!
+## Ways to help
 
-### Ways to support:
+- Sponsor directly:
+  - PayPal: [paypal.me/ipepio](https://paypal.me/ipepio)
+  - Buy Me a Coffee: [buymeacoffee.com/ipepio](https://buymeacoffee.com/ipepio)
+- Report issues and bugs with clear reproduction steps.
+- Share feature requests and product feedback.
+- Contribute docs improvements and quality fixes.
 
-*   **Buy Me a Coffee**: [Your BuyMeACoffee link here]
-*   **PayPal**: [Your PayPal link here]
-*   **GitHub Sponsors**: If you prefer monthly support.
+## Contact and feedback
 
-Every small contribution goes directly towards paying for cloud infrastructure (Coolify, Postgres, Redis) and keeping me motivated to keep adding awesome features.
+Open an issue in the organization repositories with:
 
-**Thanks for being part of the community!**
+- Expected behavior
+- Actual behavior
+- Screenshots/logs if available
+- Browser/device details
+
+Your feedback directly helps prioritize fixes and new features.

@@ -1,45 +1,41 @@
-# Clash Hub 🏰
+# Clash Hub
 
-Welcome to **Clash Hub**, the ultimate companion platform for Clash of Clans players and clan administrators.
+Welcome to **Clash Hub**, a companion platform for Clash of Clans players and clan admins.
 
 [![Live App](https://img.shields.io/badge/App-Live-brightgreen?style=for-the-badge&logo=react)](https://app.clashhub.cc)
 [![API Status](https://img.shields.io/badge/API-Online-blue?style=for-the-badge&logo=nodedotjs)](https://api.clashhub.cc/health)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/clash-hub-org/.github/blob/main/LICENSE.md)
 
-Clash Hub is designed to bridge the gap between in-game statistics and community collaboration. It provides tools to manage village layouts, track clan performance, and optimize war strategies.
+Clash Hub connects game data with team workflows: base sharing, clan coordination, war tracking, CWL monitoring, and social feedback.
 
-## ✨ Key Features
+## Key features
 
--   **🏘️ Layout Management**: Share and discover high-performance village layouts for both Home Village and Builder Base.
--   **🛡️ War Engine**: Deep integration with the official Clash of Clans API to track active wars and CWL performance.
--   **📊 Clan Dashboard**: Advanced statistics for clan leaders to manage their members effectively.
--   **💬 Social Interaction**: Rate and comment on base designs to help the community find the best strategies.
--   **🖼️ Optimized Image System**: High-quality village previews powered by Cloudinary.
+- Base management: upload, search, filters, visibility, favorites, ratings, and comments.
+- Clan tools: clan search, member views, war log, and clan-level insights.
+- War and CWL: current war status, historical data, season views, and war details.
+- Real-time UX: notifications and updates through Socket.IO.
+- Image pipeline: optimized uploads with temporary image flow and cloud storage.
+- Multi-language and responsive experience for desktop and mobile.
 
-## 🚀 Getting Started
+## Product links
 
-To start using Clash Hub, visit our web application:
-👉 **[app.clashhub.cc](https://app.clashhub.cc)**
+- App: [app.clashhub.cc](https://app.clashhub.cc)
+- API health: [api.clashhub.cc/health](https://api.clashhub.cc/health)
+- API docs (RapiDoc): [api.clashhub.cc/docs](https://api.clashhub.cc/docs)
+- API docs (Swagger): [api.clashhub.cc/api-docs](https://api.clashhub.cc/api-docs)
 
-## 📚 Documentation
+## Legal and policy
 
-For developers interested in our API, we provide interactive documentation:
--   **RapiDoc (Recommended)**: [api.clashhub.cc/docs](https://api.clashhub.cc/docs)
--   **Swagger UI**: [api.clashhub.cc/api-docs](https://api.clashhub.cc/api-docs)
+- [Privacy Policy](https://github.com/clash-hub-org/.github/blob/main/PRIVACY.md)
+- [Terms of Use](https://github.com/clash-hub-org/.github/blob/main/TERMS.md)
+- [Support](https://github.com/clash-hub-org/.github/blob/main/SUPPORT.md)
+- [License](https://github.com/clash-hub-org/.github/blob/main/LICENSE.md)
 
-## ⚖️ Legal & Privacy
+## Support the project
 
-We value your privacy and comply with Supercell's Fan Content Policy.
--   [Privacy Policy](https://github.com/clash-hub-org/.github/blob/main/PRIVACY.md)
--   [Terms of Use](https://github.com/clash-hub-org/.github/blob/main/TERMS.md)
--   [License](https://github.com/clash-hub-org/.github/blob/main/LICENSE.md)
-
-## ❤️ Support the Project
-
-If Clash Hub helps you win wars or find the perfect layout, consider supporting the development! Every coffee helps keep the servers running.
-
-👉 **[Support Page](https://github.com/clash-hub-org/.github/blob/main/SUPPORT.md)**
+- PayPal: [paypal.me/ipepio](https://paypal.me/ipepio)
+- Buy Me a Coffee: [buymeacoffee.com/ipepio](https://buymeacoffee.com/ipepio)
 
 ---
 
-*This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see Supercell’s Fan Content Policy: [www.supercell.com/fan-content-policy](https://www.supercell.com/fan-content-policy).*
+This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information, see Supercell's Fan Content Policy: [www.supercell.com/fan-content-policy](https://www.supercell.com/fan-content-policy).

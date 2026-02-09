@@ -1,32 +1,56 @@
 # Privacy Policy - Clash Hub
 
-Last updated: January 10, 2026
+Last updated: February 9, 2026
 
-At **Clash Hub**, we take your privacy seriously. This policy describes how we handle your data in our village and clan management platform for Clash of Clans.
+At **Clash Hub**, we respect your privacy. This policy explains what data we process and why.
 
-## 1. Information We Collect
+## 1. Data we collect
 
-*   **Account Data**: Email address, username, and password (hashed).
-*   **Game Data**: Player tags and clan tags retrieved through the official Clash of Clans API.
-*   **User Content**: Village images, layout links, comments, and ratings.
+- **Account data**: username, email, and password hash.
+- **Game-related data**: player tags and clan tags synced from the official Clash of Clans API.
+- **User content**: base links, uploaded images, comments, ratings, and profile metadata.
+- **Operational data**: logs and technical events required for security, reliability, and debugging.
 
-## 2. Data Protection and Security
+## 2. Why we process data
 
-We implement advanced security measures to protect your information:
-*   **Encryption at Rest**: Email addresses and real names are stored encrypted using the **AES-256-CBC** algorithm at the database level.
-*   **Password Hashing**: Passwords are processed with **bcrypt**, meaning we never know your actual key.
-*   **Secure Connections**: All traffic between your browser and our servers is encrypted via SSL/TLS.
+We process data to:
 
-## 3. Supercell API Usage
+- authenticate users and secure sessions,
+- provide core features (bases, clans, wars, CWL, notifications),
+- moderate abuse and keep the service stable,
+- improve product quality and performance.
 
-Clash Hub uses the official Clash of Clans API to sync game data. We do not collect Supercell ID login credentials. We only use public information available through their services to enhance your experience on our platform.
+## 3. Security practices
 
-## 4. Third Parties
+- Passwords are hashed with bcrypt.
+- Access is controlled with JWT and role-based permissions.
+- Network transport is protected via HTTPS/TLS.
+- We apply standard logging and monitoring practices for incident response.
 
-We do not sell, rent, or share your personal data with third parties for commercial purposes. We use trusted external services for:
-*   **Cloudinary**: Optimized storage for village images.
-*   **Resend**: Transactional emails (account recovery).
+## 4. Third-party services
 
-## 5. Your Rights
+We use external providers to operate the platform, including:
 
-You may request the deletion of your account and all associated data at any time through your profile settings or by contacting the administrator.
+- **Cloudinary** for image storage/processing.
+- **Resend** for transactional email.
+- **Infrastructure providers** for hosting, databases, and related services.
+
+We do not sell your personal data.
+
+## 5. Supercell API data
+
+Clash Hub uses the official Clash of Clans API. We do not request your Supercell account credentials. We only process data available through official API access and user-provided tags/content.
+
+## 6. Data retention
+
+We retain data while your account is active and as needed for legal, security, or operational purposes. Data no longer required is deleted or anonymized when possible.
+
+## 7. Your rights
+
+You may request account deletion or data-related support through project channels. We will handle requests according to applicable laws and operational constraints.
+
+Contact: [isaac@ipepio.dev](mailto:isaac@ipepio.dev)
+
+## 8. Policy changes
+
+We may update this policy when product or legal requirements change. The date above indicates the latest revision.
